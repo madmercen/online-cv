@@ -35,29 +35,29 @@ sidebar:
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
-    title: Languages
+    title: Языки
     info:
-    - idiom: English
-      level: Native
+    - idiom: Русский
+      level: родной
 
-    - idiom: French
-      level: Professional
+    - idiom: Английский
+      level: технический
 
-    - idiom: Spanish
-      level: Professional
+    - idiom: Немецкий
+      level: Образовательный
 
   interests:
-    title: Interests
+    title: Интересы
     info:
-    - item: Climbing
+    - item: Электрика
       link:
 
 
-    - item: Snowboarding
+    - item: Связь
       link:
 
 
-    - item: Cooking
+    - item: Сварка
       link:
 
 
@@ -71,11 +71,11 @@ career-profile:
     Donec quam felis, ultricies nec, pellentesque eu.
     Second paragraph if required.
 education:
-  title: Education
+  title: Образование
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Техник, Радиоаппаратостроение
+    university: ВАМК
+    time: 2000 - 2004
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -84,9 +84,9 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: Область ИТ
+    university: ВЛГУ
+    time: 0000 - 0001
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -97,7 +97,7 @@ education:
         - Bullet point
 
 experiences:
-  title: Experiences
+  title: Опыт работ
   info:
   - role: Lead Developer
     time: 2015 - Present
