@@ -134,9 +134,12 @@ experiences:
       Сборка и пайка разного оборудования.
 
 projects:
-  title: Projects
+  title: Проекты
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Проекты для меня - не просто одно узкое направление или конкретная задача,
+    а образ жизни, вышедший из мелочей. Считаю что мне стоит двигаться в сторону
+    усиления в масштабах, комплексном подходе и интеграции многих своих наработок,
+    во что-то уникальное, или как минмум, конкурентное на рынке.
   assignments:
   - title: Радиотехника и электроника
     link: "#"
