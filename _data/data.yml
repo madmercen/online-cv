@@ -89,7 +89,7 @@ education:
 experiences:
   title: Опыт работ
   info:
-  - role: Ит\ИБ\Электрик\Слаботочник
+  - role: ИТ\ИБ\Электрик\Слаботочник
     time: Подработки
     company: Разные организации и частные клиенты
     details: |
@@ -132,6 +132,31 @@ experiences:
     company: ОАО "Владимирский завод Электроприбор"
     details: |
       Сборка и пайка разного оборудования.
+
+projects:
+  title: Projects
+  intro: >
+    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  assignments:
+  - title: Радиотехника и электроника
+    link: "#"
+    tagline: "Множество самоделок, в том чсиле которые выставлялись на области и в ВАМК"
+
+  - title: Проекты по ИТ и ИБ
+    link: "#"
+    tagline: "Прокачка хард скилов"
+
+  - title: Саморазвитие
+    link: "#"
+    tagline: "Философия и психология. В частности области экзистенциализма, гуманизма. Трансперсональная психология"
+
+  - title: Чтение
+    link: "#"
+    tagline: "Люблю объемные труды, т.к. раскрывают общею картуну, изучаемого предмета"
+
+  - title: Сварка
+    link: "#"
+    tagline: "На данный момент как хобби. Очень интересное и не легкое занятие. Посмотрим что выйдет по итогу."
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
